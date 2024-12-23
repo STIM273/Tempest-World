@@ -714,3 +714,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 01:43:03.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshua124_: Gave 1 [Paper] to Joshua124_]
 [23Dec2024 01:43:16.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joshua124_ lost connection: Disconnected
 [23Dec2024 01:43:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshua124_ left the game
+[23Dec2024 01:44:30.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 01:44:30.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 01:49:30.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 01:49:30.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
