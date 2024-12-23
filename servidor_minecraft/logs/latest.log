@@ -107,3 +107,6 @@
 [23Dec2024 01:43:03.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshua124_: Gave 1 [Paper] to Joshua124_]
 [23Dec2024 01:43:16.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joshua124_ lost connection: Disconnected
 [23Dec2024 01:43:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshua124_ left the game
+[23Dec2024 01:54:49.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[23Dec2024 01:54:50.022] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[23Dec2024 01:54:50.118] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
